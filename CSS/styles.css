@@ -1,9 +1,8 @@
 body
 {
-background = "RED"
+background-color = "black"
 }
 
 h1{
-font-size="8";
-font-color="RED";
+color:red;
 }
