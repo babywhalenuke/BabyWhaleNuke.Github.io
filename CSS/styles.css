@@ -1,12 +1,6 @@
 body{
-background-color: 0000;
+background-color: #000;
 }
-div{
+div{background-color: #000;}
 
-background-color:BLACK;
-
-}
-
-h1{color:red;
-
-}
+h1{color: red;}
