@@ -1,9 +1,12 @@
-body
-{
-background-color:Blue;
+body{
+background-color: 0000;
+}
+div{
+
+background-color:BLACK;
+
 }
 
-h1{
-background-color:black;
-color:red;
+h1{color:red;
+
 }
